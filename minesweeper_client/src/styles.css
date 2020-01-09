@@ -1,0 +1,26 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.Grid {
+    background-color: #ffffff;
+    width: 35px;
+    height: 35px;
+    padding: 0px;
+    margin: 0px;
+    vertical-align: middle;
+}
+
+.Digged {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.Flagged {
+}
+
+.Toggle {
+    width: 60px;
+    height: 35px;
+}
